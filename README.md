@@ -16,6 +16,6 @@
 
 **BIOS**: 7C37vHC
 
-**OpenCore**: 0.6.7
+**OpenCore**: 0.6.8
 
 **macOS**: Big Sur 11.2.3
