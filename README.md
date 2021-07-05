@@ -14,8 +14,8 @@
 
 ## Versions
 
-**BIOS**: 7C37vHC
+**BIOS**: 7C37vHE1
 
-**OpenCore**: 0.6.9
+**OpenCore**: 0.7.0
 
-**macOS**: Big Sur 11.2.3
+**macOS**: Big Sur 11.4
