@@ -18,4 +18,4 @@
 
 **OpenCore**: 0.7.0
 
-**macOS**: Big Sur 11.4
+**macOS**: Big Sur 11.5.1
